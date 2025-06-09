@@ -1,11 +1,11 @@
-## 🔢 Counter App – Persistent Counter using SharedPreferences
+## Counter App – Persistent Counter using SharedPreferences
 
-### 📌 Introduction
+### Introduction
 
 A simple counter app built with Flutter that saves the counter value even after the app is closed using `SharedPreferences`.
 
 
-### ✨ Features
+### Features
 
 * Increment and decrement buttons
 * Reset to zero
@@ -13,7 +13,7 @@ A simple counter app built with Flutter that saves the counter value even after 
 * Minimal and clean UI with soft colors
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 * Flutter
 * Dart
@@ -21,7 +21,7 @@ A simple counter app built with Flutter that saves the counter value even after 
 * Stateful Widgets
 
 
-### 🧰 Installation & Setup
+### Installation & Setup
 
 ```bash
 git clone https://github.com/sajeelailyas/flutter-counter-app.git  
@@ -31,7 +31,7 @@ flutter run
 ```
 
 
-### 🚀 Usage
+### Usage
 
 * Tap **+** to increment the counter
 * Tap **−** to decrement
@@ -39,14 +39,14 @@ flutter run
 * Value is auto-saved and restored on app restart
 
 
-### 📷 Screenshots
+### Screenshots
 
 <img src="assets/WhatsApp Image 2025-06-09 at 16.00.15_70d9d5ed.jpg" alt="" width="100"/>
   
 <img src="assets/WhatsApp Image 2025-06-09 at 16.00.08_f3cd0259.jpg" alt="" width="100"/>
 
 
-### 🧠 What I Learned
+### What I Learned
 
 * Using `SharedPreferences` for local data persistence
 * Stateful widget lifecycle management
