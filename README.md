@@ -41,11 +41,9 @@ flutter run
 
 ### 📷 Screenshots
 
-### 🔐 Login Screen  
-<img src="assets/login.jpg" alt="WhatsApp Image 2025-06-09 at 16.00.15_70d9d5ed" width="100"/>
-
-### 🏠 Home Screen (With Easter Egg)  
-<img src="assets/home.jpg" alt="WhatsApp Image 2025-06-09 at 16.00.08_f3cd0259" width="100"/>
+<img src="assets/WhatsApp Image 2025-06-09 at 16.00.15_70d9d5ed.jpg" alt="" width="100"/>
+  
+<img src="assets/WhatsApp Image 2025-06-09 at 16.00.08_f3cd0259.jpg" alt="" width="100"/>
 
 
 ### 🧠 What I Learned
@@ -54,6 +52,6 @@ flutter run
 * Stateful widget lifecycle management
 * Flutter layout basics and UI refinement
 
-
+*This project was developed during a Flutter internship as a learning exercise.*
 
 
